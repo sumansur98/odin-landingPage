@@ -8,6 +8,8 @@ body{
     background-color: #1F2937;
    padding : 10px 0;
 }
+
+/* navbar styling start */
 .navbar{
     width : 75%;
     margin : 0 auto;
@@ -35,3 +37,4 @@ body{
     font-size: 18px;
     color: #E5E7EB;
 }
+/* navbar styling end */
