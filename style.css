@@ -151,3 +151,39 @@ body{
 .third-section-content > p{
     text-align: end;
 }
+
+/* fourth section starts */
+.fourth-section{
+    background-color: white;
+    padding : 10px 0;
+    height : 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourth-section-content{
+    background-color: #3882F6;
+    width : 60%;
+    height : 15rem;
+    margin : 0 auto;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+.fourth-section-text > p{
+    font-size: 18px;
+}
+
+.fourth-section-button > button{
+    padding: 1rem 3rem;
+    color: white;
+    background: #3882F6;
+    border: 2px solid white;
+    border-radius: 15px;
+    font-size: 18px;
+    
+}
