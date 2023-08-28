@@ -187,3 +187,13 @@ body{
     font-size: 18px;
     
 }
+
+/* footer */
+.footer{
+    height : 5rem;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
