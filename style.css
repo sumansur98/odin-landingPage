@@ -125,3 +125,29 @@ body{
 .info-div > p{
     text-align: center;
 }
+
+/* third section start */
+.third-section{
+    background-color: #E5E7EB;
+    padding : 10px 0;
+    height : 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.third-section-content{
+    width: 50%;
+    margin : 0 auto;
+    
+}
+
+.third-section-content > h1{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.third-section-content > p{
+    text-align: end;
+}
